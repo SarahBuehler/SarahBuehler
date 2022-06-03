@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahbuehler&show_icons=true&locale=en&layout=compact" alt="sarahbuehler" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahbuehler&show_icons=true&locale=en&layout=compact" alt="sarahbuehler" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahbuehler&show_icons=true&locale=en" alt="sarahbuehler" />
 </p>
