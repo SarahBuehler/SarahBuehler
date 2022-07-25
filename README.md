@@ -5,7 +5,7 @@
 🌱 I’m currently learning HTML, CSS, JavaScript and Git/GitHub
 </p>
 
-<p align="center">with the help of WBS Coding School :books: :computer: </p>
+<p align="center">with the help of WBS Coding School Berlin :books: :computer: </p>
 <div align="center">
 
 
