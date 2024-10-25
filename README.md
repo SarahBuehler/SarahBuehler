@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
-<h3 align="center">A new web developer from Germany</h3>
+<h3 align="center">A web developer from Germany</h3>
 
 <p align="center">
 🌱 I’m currently learning HTML, CSS, JavaScript and Git/GitHub
