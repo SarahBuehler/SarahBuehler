@@ -38,7 +38,7 @@
 It all started a very long time ago with Nibbles in QBasic on a PC with MS-DOS. It was my first program that I had typed out of a book. 
 There were a few phases with Delphi and Java. Then I switched to web development. Back then it was still pure HTML, CSS and some JavaScript.
 I then lost sight of this hobby for a few years.
-In 2022, I revived it with a bootcamp at the WBS Coding School to quickly get up to speed with the latest languages and tools.
+In 2022, I revived it with a bootcamp at the WBS Coding School to quickly get up with the latest languages and tools.
   So here I am now ...
 </details>
 
